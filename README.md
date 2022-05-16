@@ -11,7 +11,7 @@ Dr. Ramon Lawrence, ramon.lawrence@ubc.ca, 250-807-9390<br>
 ## TAs
 TBD
 ## Course Description
-**Official Calendar:** Advanced or specialized topics in database design, modelling, and implementation. This course may be taken more than once for credit. Credit will be granted for only one of COSC 416 or COSC 516 when the subject matter is of the same nature.
+**Official Calendar:** Advanced or specialized topics in database design, modelling, and implementation. This course may be taken more than once for credit. Credit will be granted for only one of COSC 416 or COSC 516 when the subject matter is of the same nature.<br>
 **Prerequisite:** None. Prior database experience is helpful but not required.
 
 **Specific description:** This course provides an introduction to database systems including database querying, design, and programming. The course consists of three major components. The first component explains databases from a user perspective including how to query using SQL and relational algebra. The second component involves designing relational databases using Entity-Relationship (ER) diagrams and UML. The last part involves database and web programming with Java, JDBC, JSP, Python, and PHP. Students completing the course have experience with current database technologies, and the ability to use and develop databases and associated applications.
