@@ -48,8 +48,6 @@ TBD
  - **I want all students to pass the course, receive a good grade, and feel the course was beneficial.**
 
 ## Schedule
-**Lecture:** TBD <!-- 12:30 to 2:00 p.m. Tuesday and Thursday--><br>
-**Lab:** None
 
 |   Date | Topic  | Reading and Resources |
 |------------|------|-----------|
