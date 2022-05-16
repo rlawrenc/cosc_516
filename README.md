@@ -6,7 +6,7 @@ Dr. Ramon Lawrence, ramon.lawrence@ubc.ca, 250-807-9390<br>
 **Mode of Delivery:** TBD and live-stream on Zoom<br>
 **Office Hours:**	TBD or by an appointment<br>
 **Office Location:** ASC 349<br>
-**Calendar Course Description, from the UBCO Calendar:** http://www.calendar.ubc.ca/okanagan/courses.cfm?go=name&code=COSC
+**[UBCO Calendar Course Description](http://www.calendar.ubc.ca/okanagan/courses.cfm?go=name&code=COSC)**
 
 ## TAs
 TBD
