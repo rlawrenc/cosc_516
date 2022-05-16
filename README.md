@@ -1,4 +1,4 @@
-# COSC 516 - Special Topics in Databases - Winter Term 1 2022
+# COSC 516 - Special Topics in Databases - Sept 2022
 
 ## Instructor
 Dr. Ramon Lawrence, ramon.lawrence@ubc.ca, 250-807-9390<br>
