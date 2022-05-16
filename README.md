@@ -53,29 +53,20 @@ TBD
 
 |   Date | Topic  | Reading and Resources |
 |------------|------|-----------|
-| Sept. 9 (R) | [**First day of classes.  Introduction to course/databases**](lectures/lecture1) | [SQL for Web Nerds: SQL Introduction](http://philip.greenspun.com/sql/introduction.html) |
-| Sept. 14-16 | [Relational Model - Schemas, Keys, Constraints, Integrity](lectures/lecture2) |  |
-| Sept. 21 | [Relational Algebra - Select, Project, Set Ops, Outer Joins](lectures/lecture3) | [Online Relational Algebra Tool](http://dbis-uibk.github.io/relax/), [WorksOn Data Set](https://gist.github.com/rlawrenc/5a7eb3f69cbea033c04c3cdf680a2e39), [Bank Data Set](https://gist.github.com/rlawrenc/51721bd35f05ce3ef7391ff826f8f81a) |
-| Sept. 23–28 | [SQL DDL – Create table/index, Insert/Delete/Update](lectures/lecture4) | [Linux Shell Intro](https://drive.google.com/open?id=1ij785M5nfCkfsiYbCgXc5fmuRq790mJJv08VYJ1bE4w) |
-| Oct. 5 | [SQL - Queries, LIKE operator, Set Operations, Order By](lectures/lecture5) | [SQL for Web Nerds: SQL Queries](http://philip.greenspun.com/sql/queries.html) |
-| Oct. 7 | [SQL - Group By, Aggregate Functions](lectures/lecture6), SQL - Subqueries, Outer joins](lectures/lecture6)| [SQL for Web Nerds: SQL Complex Queries](http://philip.greenspun.com/sql/complex-queries.html) |
-| Oct. 12 | [Database Design – General Approach](lectures/lecture7)| |
-| Oct. 14 | [ER and UML Modeling, ER and UML Modeling examples and questions](lectures/lecture8)| |
-| Oct. 19 | **Midterm Exam #1 In-Class** | |
-| Oct. 21 | [EER Design - Specialization, Generalization, Aggregation<br>ER/EER Mapping to Relational model](lectures/lecture9)
-| Oct. 26 | [Database Programming using Java/JDBC](lectures/lecture10) | [Sample Java Code](lectures/lecture10/code), [JDBC Tutorial](https://docs.oracle.com/javase/tutorial/jdbc/index.html)  |
-| Oct. 28 | [Database Programming using Python and R](lectures/lecture11) | [Sample Python Code](lectures/lecture11/code), [SQL Server and pyodbc](https://docs.microsoft.com/en-us/sql/connect/python/pyodbc/python-sql-driver-pyodbc), [pyodbc](https://github.com/mkleehammer/pyodbc/wiki)<br> [pyodbc Getting Started](https://github.com/mkleehammer/pyodbc/wiki/Getting-started), [Python Database API](https://www.python.org/dev/peps/pep-0249), [Python sqlite3](https://docs.python.org/3/library/sqlite3.html)  |
-| Nov. 2 | [Database Web Programming – Web servers, JSP/PHP](lectures/lecture12) | [Sample JSP/PHP Code](lectures/lecture12/code)<br> [Comic - Why validation is important](http://xkcd.com/327/) |
-| Nov. 4 | [Advanced SQL DDL – Triggers and Views](lectures/lecture13) | [SQL for Web Nerds: SQL Triggers](http://philip.greenspun.com/sql/triggers.html) |
-| Nov. 8-12 | **No class for Term 1 midterm break** | |
-| Nov. 16 | **Midterm Exam #2 In-Class** | Student Consent: https://ubc.ca1.qualtrics.com/jfe/form/SV_1YtWwaxpaX7sx1A<br> Instructor and Teaching Assistant Consent: https://ubc.ca1.qualtrics.com/jfe/form/SV_6yxChQZI2lfDx8a<br> Student Survey: https://ubc.ca1.qualtrics.com/jfe/form/SV_86W8svTSmCAFDrU<br> Instructor and Teaching Assistant Survey: https://ubc.ca1.qualtrics.com/jfe/form/SV_3l7hy3uGUjJ5WwC|
-| Nov. 18 | [Advanced SQL – Security, Transactions, Recursion](lectures/lecture14) | [MySQL Recursive Query](http://www.mysqltutorial.org/mysql-recursive-cte/) |
-| Nov. 23 | [XML and XPath](lectures/lecture15) |  [Sample XML Code](lectures/lecture15/code), [Intro to XML/XML Reference](http://www.w3schools.com/xml/xml_whatis.asp)<br>[XMLSchema Reference](https://www.w3schools.com/xml/schema_intro.asp)<br>[XML Validator](https://www.freeformatter.com/xml-validator-xsd.html), [Test XPath](http://cosc304.ok.ubc.ca/rlawrenc/tomcat/xml/xmlquery.html) |
-| Nov. 25 | [JSON and NoSQL Databases](lectures/lecture16) | |
-| Nov. 30 | [Normalization and Design Verification](lectures/lecture17) | |
-| Dec. 2 | [Database hosting and data cleansing/wrangling](lectures/lecture18)<br>[Data warehousing and Data Mining](lectures/lecture19)<br>Preview of COSC 404 - Database System Implementation | [Sample D3 Code](lectures/lecture18/code)<br>[10 Rules for Data Storage](https://people.ok.ubc.ca/rlawrenc/teaching/304/Notes/refs/rulesfordatastorage.pdf) |
-| Dec. 7 | **Course Summary, Final Exam Review** | |
-| Dec. 15 | **Final Exam On-Line 2.5 hours, 8:30 am**|
+| Sept. 5 - 9 | [**First day of classes.  Introduction to course/databases**](lectures/lecture1), Review of relational algebra/SQL |  |
+| Sept. 12 - 16 | MySQL/PostgreSQL on Amazon RDS |  |
+| Sept. 19 - 23 | Microsoft SQL Server on Azure |  |
+| Sept. 26 - 30 | Scaling MySQL on Amazon (unique relational systems) |  |
+| Oct. 3 - 7 | MongoDB on Atlas |  |
+| Oct. 10 - 14 | Key-value stores (Cassandra) |  |
+| Oct. 17 - 21 | Column-stores (Google BigTable) |  |
+| Oct. 24 - 28 | Batch databases (Hadoop, HDFS, Hive) |  |
+| Oct. 31 - Nov. 4 | In-memory Publish/Subscribe (Redis) |  |
+| Nov. 7 - 11 | **No class for Term 1 midterm break** | |
+| Nov. 14 - 18 | In-memory databases |  |
+| Nov. 21 - 25 | Time series databases  |  |
+| Nov. 28 - Dec. 2 | Graph Databases (Neo4J)  |  |
+| Dec. 5 - 8 | **Course Summary, Final Exam Review** |  |
 
 ## Copyright Disclaimer   
 Diagrams and figures included in lecture presentations adhere to Copyright Guidelines for UBC Faculty, Staff and Students http://copyright.ubc.ca/requirements/copyright-guidelines/ and UBC Fair Dealing Requirements for Faculty and Staff http://copyright.ubc.ca/requirements/fair-dealing/.  Some of these figures and images are subject to copyright and will not be posted to Canvas.   All material uploaded to Canvas that contain diagrams and figures are used with permission of the publisher; are in the public domain; are licensed by Creative Commons; meet the permitted terms of use of UBC’s library license agreements for electronic items; and/or adhere to the UBC Fair Dealing Requirements for Faculty and Staff. Access to the Canvas course site is limited to students currently registered in this course. Under no circumstance are students permitted to provide any other person with means to access this material. Anyone violating these restrictions may be subject to legal action. Permission to electronically record any course materials must be granted by the instructor. Distribution of this material to a third party is forbidden.
@@ -169,14 +160,5 @@ Don't want to walk alone at night?  Not too sure how to get somewhere on campus?
 For more information:  https://security.ok.ubc.ca/safewalk/  or download the UBC SAFE – Okanagan app.
 
 ## Reference Material
-* [SQL for Web Nerds](http://philip.greenspun.com/sql/index.html)
-* [SQL Tutorial by Software Carpentry](http://swcarpentry.github.io/sql-novice-survey/) - uses SQLite and demonstrates using databases with Python/R
-* [Codecademy SQL course](https://www.codecademy.com/learn/learn-sql)
-* [Amazon Database Blog](https://aws.amazon.com/blogs/database/)
-* [Using MySQL](https://people.ok.ubc.ca/rlawrenc/teaching/304/Notes/mysql.html)
-* [Using SQL Server](https://people.ok.ubc.ca/rlawrenc/teaching/304/Notes/sqlserver.html)
-* [Using FileZilla](https://people.ok.ubc.ca/rlawrenc/teaching/304/Notes/filezilla/filezilla.html)
-* [Using Eclipse/JavaEE/Tomcat for Web Development](https://people.ok.ubc.ca/rlawrenc/teaching/304/Notes/JavaEE/setup.html)
-* [astah Web Site](http://astah.net/editions/uml-new)
-* [Best Prior Year Projects](https://people.ok.ubc.ca/rlawrenc/teaching/304/Project/index.html)
-* Sample databases WorksOn (SQL Notes): [WorksOn](https://people.ok.ubc.ca/rlawrenc/teaching/304/Notes/DB/WorksOn.accdb), [WorksOn DDL](https://people.ok.ubc.ca/rlawrenc/teaching/304/Notes/DB/MySQL_WorksOn_DDL.sql)
+* [COSC 304](https://github.com/rlawrenc/cosc_304)
+* [COSC 404](https://github.com/rlawrenc/cosc_404)
