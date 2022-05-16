@@ -51,7 +51,7 @@ TBD
 
 |   Date | Topic  | Reading and Resources |
 |------------|------|-----------|
-| Sept. 5 - 9 | [**First day of classes.  Introduction to course/databases**](lectures/lecture1), Review of relational algebra/SQL |  |
+| Sept. 5 - 9 | [**First day of classes.  Introduction to course/databases**](topics/1_intro), Review of relational algebra/SQL |  |
 | Sept. 12 - 16 | MySQL/PostgreSQL on Amazon RDS |  |
 | Sept. 19 - 23 | Microsoft SQL Server on Azure |  |
 | Sept. 26 - 30 | Scaling MySQL on Amazon (unique relational systems) |  |
