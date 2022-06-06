@@ -2,9 +2,9 @@
 
 ## Instructor
 Dr. Ramon Lawrence, ramon.lawrence@ubc.ca, 250-807-9390<br>
-**Live Classroom Schedule:** TBD<br>
-**Mode of Delivery:** TBD and live-stream on Zoom<br>
-**Office Hours:**	TBD or by an appointment<br>
+**Live Classroom Schedule:** Monday/Wednesday 3:30 p.m. to 5:00 p.m.<br>
+**Mode of Delivery:** ART 218 and live-stream on Zoom<br>
+**Office Hours:** Thursdays 2 to 4 p.m. or by an appointment<br>
 **Office Location:** ASC 349<br>
 **[UBCO Calendar Course Description](http://www.calendar.ubc.ca/okanagan/courses.cfm?go=name&code=COSC)**
 
