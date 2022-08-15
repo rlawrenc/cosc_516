@@ -8,43 +8,40 @@ Dr. Ramon Lawrence, ramon.lawrence@ubc.ca, 250-807-9390<br>
 **Office Location:** ASC 349<br>
 **[UBCO Calendar Course Description](http://www.calendar.ubc.ca/okanagan/courses.cfm?go=name&code=COSC)**
 
-## TAs
-TBD
 ## Course Description
 **Official Calendar:** Advanced or specialized topics in database design, modelling, and implementation. This course may be taken more than once for credit. Credit will be granted for only one of COSC 416 or COSC 516 when the subject matter is of the same nature.<br>
 **Prerequisite:** None. Prior database experience is helpful but not required.
 
-**Specific description:** This course provides an introduction to database systems including database querying, design, and programming. The course consists of three major components. The first component explains databases from a user perspective including how to query using SQL and relational algebra. The second component involves designing relational databases using Entity-Relationship (ER) diagrams and UML. The last part involves database and web programming with Java, JDBC, JSP, Python, and PHP. Students completing the course have experience with current database technologies, and the ability to use and develop databases and associated applications.
+**Specific description:** This course provides an applied introduction to database systems deployed in the cloud. The course begins with a review of database foundations including the relational model, SQL, and NoSQL systems. Each week a particular database system will be examined including hands-on experience with deploying and using the system. Specific systems explored include MySQL on Amazon Web Services, SQL Server/Azure DB on Microsoft Azure, and Bigtable on Google Cloud. Each student will select a database to study and present, and develop a lab assignment for other students to complete.
 
 ## Course Objectives
-**Course Format:** Interactive online classes consisting of topic introduction, understanding evaluation using quick questions, and concept mastery with larger exercises.  Practical skills and applications of topics covered in assignments as well as practice using industrial database systems and software.
+**Course Format:** Each course session will be done in person and streamed on Zoom. Each week a different database is presented. The first class of the week provides foundations on the database system and its particular features and use cases. Students will complete an interactive lab assignment on the database by the end of the second class of the week.
 
 **Learning Outcomes:**
- - Understand the use case for databases and the relational model for data storage.
- - Proficiency in creating queries on relational databases using relational algebra and SQL.
- - Read existing database designs, design new databases using ER/UML modeling, and convert to the relational model.
- - Construct programs that access a database to read data, perform analysis, and output results.
- - Exposure to database technologies like NoSQL, JSON, XML, and cloud databases.
+ - Understand different database systems and their particular use cases.
+ - Proficiency in creating a database system on each of the three major cloud providers (AWS, Azure, Google).
+ - Experience creating technical summary documents and learning activities to educate others.
+ - Mastery of constructing programs to interact with cloud databases including using testing frameworks.
+ - Exposure to a variety of database technologies and systems and the ability to determine when to use them.
+ - Practice allocating and managing resources on a cloud provider and monitoring billing and costs.
 
 ## Marking and Evaluation
 | Item | Weighting | Description |
 |------|-----------|-------------|
-| Quizzes and Exercises | 10% | Online and during class time activities |
-| Assignments | 25% | Weekly assignments |
-| Project | 40% | Present on a particular DB system | 
-| Final Exam | 25% | Cumulative, two and half hours |
+| Assignments | 40% | Weekly assignments |
+| Project | 30% | Present on a particular database system | 
+| Final Exam | 30% |  |
 
 ## Textbook and Reference Material
  - All notes are online.
  - A textbook is not required. Students can get supplemental material from any database textbook.
- - The course uses iClicker Cloud (free). [Setup instructions for iClicker Cloud Student Account](https://lthub.ubc.ca/guides/iclicker-cloud-student-guide/). [iClicker Cloud (REEF) Login](http://app.reef-education.com/)
 
 ## Expectations
  - Attend all classes and prepare before attending class. 
- - Read the notes before the class time. **Expect to spend about five hours per week in out-of-class preparation.**
+ - **Expect to spend about six hours per week in out-of-class activities.**
  - Learn the material in the course by completing all assignments. **No late assignments are accepted.**
  - Enjoy attending class activities and participate according to your personality.  Ask questions by posting on chat or raising your hand.
- - Please actively participate in class discussions, questions, and problem solving exercises.
+ - Spent time creating a good project with well-designed written documention, video summary, and an interesting lab assignment.
  - **I want all students to pass the course, receive a good grade, and feel the course was beneficial.**
 
 ## Schedule
