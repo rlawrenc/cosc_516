@@ -48,20 +48,42 @@ Dr. Ramon Lawrence, ramon.lawrence@ubc.ca, 250-807-9390<br>
 
 |   Date | Topic  | Reading and Resources |
 |------------|------|-----------|
-| Sept. 5 - 9 | [**First day of classes.  Introduction to course/databases**](topics/1_intro), Review of relational algebra/SQL |  |
-| Sept. 12 - 16 | MySQL/PostgreSQL on Amazon RDS |  |
-| Sept. 19 - 23 | Microsoft SQL Server on Azure |  |
-| Sept. 26 - 30 | Scaling MySQL on Amazon (unique relational systems) |  |
-| Oct. 3 - 7 | MongoDB on Atlas |  |
-| Oct. 10 - 14 | Key-value stores (Cassandra) |  |
-| Oct. 17 - 21 | Column-stores (Google BigTable) |  |
-| Oct. 24 - 28 | Batch databases (Hadoop, HDFS, Hive) |  |
-| Oct. 31 - Nov. 4 | In-memory Publish/Subscribe (Redis) |  |
-| Nov. 7 - 11 | **No class for Term 1 midterm break** | |
-| Nov. 14 - 18 | In-memory databases |  |
-| Nov. 21 - 25 | Time series databases  |  |
-| Nov. 28 - Dec. 2 | Graph Databases (Neo4J)  |  |
-| Dec. 5 - 8 | **Course Summary, Final Exam Review** |  |
+| Sept. 7 (W) | [**First day of classes.  Introduction to course**](topics/1_introduction)<br> [Introduction to databases](topics/2_database_introduction) |  |
+| Sept. 12 (M) | [Review of Relational Model and Algebra](topics/3_relational_model) | [Online Relational Algebra Tool](https://dbis-uibk.github.io/relax/), [WorksOn Data Set](https://gist.github.com/rlawrenc/5a7eb3f69cbea033c04c3cdf680a2e39), [Bank Data Set](https://gist.github.com/rlawrenc/51721bd35f05ce3ef7391ff826f8f81a)  |
+| Sept. 14 (W) | [Review of SQL](topics/4_sql) |  |
+| Sept. 19 (M) | [MySQL on AWS Overview](topics/5_mysql_aws) |  |
+| Sept. 21 (W) | [MySQL on AWS Lab](topics/5_mysql_aws) |  |
+| Sept. 26 (M) | [SQLServer on Microsoft Azure Overview](topics/6_sqlserver_azure) |  |
+| Sept. 28 (W) | [SQLServer on Microsoft Azure Lab](topics/6_sqlserver_azure) |  |
+| Oct. 3 (M) | [Bigtable on Google Cloud Overview](topics/7_google_bigtable) |  |
+| Oct. 5 (W) | [Bigtable on Google Cloud Lab](topics/7_google_bigtable) |  |
+| Oct. 10 (M) | **No class due to Thanksgiving** | |
+| Oct. 12 (W) | **Project Work Class** | |
+| Oct. 17 (M) | [MongoDB on Mongo Atlas Overview](topics/8_mongodb_atlas) |  |
+| Oct. 19 (W) | [MongoDB on Mongo Atlas Lab](topics/8_mongodb_atlas) |  |
+| Oct. 24 (M) | [Student Project #1 Overview]() | |
+| Oct. 26 (W) | [Student Project #1 Lab]() | |
+| Oct. 31 (M) | [Student Project #2 Overview]() | |
+| Nov. 2 (W) |  [Student Project #2 Lab]() | |
+| Nov. 7 (M) | **No class for Term 1 midterm break** | |
+| Nov. 9 (W) | **No class for Term 1 midterm break** | |
+| Nov. 14 (M) | [Student Project #3 Overview]() | |
+| Nov. 16 (W) | [Student Project #3 Lab]() | |
+| Nov. 21 (M) | [Student Project #4 Overview]() | |
+| Nov. 23 (W) | [Student Project #4 Lab]() | |
+| Nov. 28 (M) | [Student Project #5 Overview]() | |
+| Nov. 30 (W) | [Student Project #5 Lab]() | |
+| December 5 (M) | [Student Project #6 Overview]() | |
+| December 7 (W) | [Student Project #6 Lab]() | |
+
+Potential databases for student projects:
+- Key-value stores: Cassandra
+- High-availability: Google Spanner
+- Batch databases: Hadoop, Hive
+- In-memory databases: Redis
+- Warehousing/analytics: Snowflake, Amazon Redshift
+- Graph databases: Amazon Neptune, Neo4J
+- Time series databases: 
 
 ## Copyright Disclaimer   
 Diagrams and figures included in lecture presentations adhere to Copyright Guidelines for UBC Faculty, Staff and Students http://copyright.ubc.ca/requirements/copyright-guidelines/ and UBC Fair Dealing Requirements for Faculty and Staff http://copyright.ubc.ca/requirements/fair-dealing/.  Some of these figures and images are subject to copyright and will not be posted to Canvas.   All material uploaded to Canvas that contain diagrams and figures are used with permission of the publisher; are in the public domain; are licensed by Creative Commons; meet the permitted terms of use of UBC’s library license agreements for electronic items; and/or adhere to the UBC Fair Dealing Requirements for Faculty and Staff. Access to the Canvas course site is limited to students currently registered in this course. Under no circumstance are students permitted to provide any other person with means to access this material. Anyone violating these restrictions may be subject to legal action. Permission to electronically record any course materials must be granted by the instructor. Distribution of this material to a third party is forbidden.
@@ -69,7 +91,7 @@ Diagrams and figures included in lecture presentations adhere to Copyright Guide
 ## Grievances and Complaints Procedures
 A student who has a complaint related to this course should follow the procedures summarized below:<br>
 - The student should attempt to resolve the matter with the instructor first. Students may talk first to someone other than the instructor if they do not feel, for whatever reason, that they can directly approach the instructor. 
-If the complaint is not resolved to the student's satisfaction, the student should e-mail the Associate Head, Dr. Yves Lucet at yves.lucet@ubc.ca  or the Department Head pro tem, Dr. Andrew Jirasek at andrew.jirasek@ubc.ca.
+- If the complaint is not resolved to the student's satisfaction, the student should e-mail the Associate Head, Dr. Yves Lucet at yves.lucet@ubc.ca or the Department Head, John Braun at john.braun@ubc.ca.
  
 ## Your Responsibilities
 Your responsibilities to this class and to your education as a whole include attendance and participation. You have a
