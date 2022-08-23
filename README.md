@@ -83,7 +83,7 @@ Potential databases for student projects:
 - In-memory databases: Redis
 - Warehousing/analytics: Snowflake, Amazon Redshift
 - Graph databases: Amazon Neptune, Neo4J
-- Time series databases: 
+- Time series databases: InfluxDB
 
 ## Copyright Disclaimer   
 Diagrams and figures included in lecture presentations adhere to Copyright Guidelines for UBC Faculty, Staff and Students http://copyright.ubc.ca/requirements/copyright-guidelines/ and UBC Fair Dealing Requirements for Faculty and Staff http://copyright.ubc.ca/requirements/fair-dealing/.  Some of these figures and images are subject to copyright and will not be posted to Canvas.   All material uploaded to Canvas that contain diagrams and figures are used with permission of the publisher; are in the public domain; are licensed by Creative Commons; meet the permitted terms of use of UBC’s library license agreements for electronic items; and/or adhere to the UBC Fair Dealing Requirements for Faculty and Staff. Access to the Canvas course site is limited to students currently registered in this course. Under no circumstance are students permitted to provide any other person with means to access this material. Anyone violating these restrictions may be subject to legal action. Permission to electronically record any course materials must be granted by the instructor. Distribution of this material to a third party is forbidden.
@@ -91,7 +91,7 @@ Diagrams and figures included in lecture presentations adhere to Copyright Guide
 ## Grievances and Complaints Procedures
 A student who has a complaint related to this course should follow the procedures summarized below:<br>
 - The student should attempt to resolve the matter with the instructor first. Students may talk first to someone other than the instructor if they do not feel, for whatever reason, that they can directly approach the instructor. 
-- If the complaint is not resolved to the student's satisfaction, the student should e-mail the Associate Head, Dr. Yves Lucet at yves.lucet@ubc.ca or the Department Head, John Braun at john.braun@ubc.ca.
+- If the complaint is not resolved to the student's satisfaction, the student should e-mail the Associate Head, Dr. Yves Lucet at yves.lucet@ubc.ca or the Department Head, Dr. John Braun at cmps.depthead@ubc.ca.
  
 ## Your Responsibilities
 Your responsibilities to this class and to your education as a whole include attendance and participation. You have a
