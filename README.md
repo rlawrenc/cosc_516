@@ -41,7 +41,7 @@ Dr. Ramon Lawrence, ramon.lawrence@ubc.ca, 250-807-9390<br>
  - **Expect to spend about six hours per week in out-of-class activities.**
  - Learn the material in the course by completing all assignments. **No late assignments are accepted.**
  - Enjoy attending class activities and participate according to your personality.  Ask questions by posting on chat or raising your hand.
- - Spent time creating a good project with well-designed written documention, video summary, and an interesting lab assignment.
+ - Spent time creating a good project with well-designed written documentation, video summary, and an interesting lab assignment.
  - **I want all students to pass the course, receive a good grade, and feel the course was beneficial.**
 
 ## Schedule
