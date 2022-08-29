@@ -51,7 +51,7 @@ Dr. Ramon Lawrence, ramon.lawrence@ubc.ca, 250-807-9390<br>
 | Sept. 7 (W) | [**First day of classes.  Introduction to course**](topics/1_introduction)<br> [Introduction to databases](topics/2_database_introduction) |  |
 | Sept. 12 (M) | [Review of Relational Model and Algebra](topics/3_relational_model) | [Online Relational Algebra Tool](https://dbis-uibk.github.io/relax/), [WorksOn Data Set](https://gist.github.com/rlawrenc/5a7eb3f69cbea033c04c3cdf680a2e39), [Bank Data Set](https://gist.github.com/rlawrenc/51721bd35f05ce3ef7391ff826f8f81a)  |
 | Sept. 14 (W) | [Review of SQL](topics/4_sql) | [SQL DDL](https://github.com/rlawrenc/cosc_304/tree/main/topics/5_sql_ddl), [Basic SQL](https://github.com/rlawrenc/cosc_304/tree/main/topics/6_sql), [SQL Aggregation](https://github.com/rlawrenc/cosc_304/tree/main/topics/7_sql_aggregation) |
-| Sept. 19 (M) | [MySQL on AWS Overview](topics/5_mysql_aws) |  |
+| Sept. 19 (M) | [MySQL on AWS Overview](topics/5_mysql_aws) | [Amazon RDS](https://aws.amazon.com/rds/), [Read Replicas](https://aws.amazon.com/rds/features/read-replicas/). [Multi-AZ](https://aws.amazon.com/rds/features/multi-az/), [Aurora](https://aws.amazon.com/rds/aurora/) |
 | Sept. 21 (W) | [MySQL on AWS Lab](topics/5_mysql_aws) |  |
 | Sept. 26 (M) | [SQLServer on Microsoft Azure Overview](topics/6_sqlserver_azure) |  |
 | Sept. 28 (W) | [SQLServer on Microsoft Azure Lab](topics/6_sqlserver_azure) |  |
