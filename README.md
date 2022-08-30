@@ -48,19 +48,19 @@ Dr. Ramon Lawrence, ramon.lawrence@ubc.ca, 250-807-9390<br>
 
 |   Date | Topic  | Reading and Resources |
 |------------|------|-----------|
-| Sept. 7 (W) | [**First day of classes.  Introduction to course**](topics/1_introduction)<br> [Introduction to databases](topics/2_database_introduction) |  |
-| Sept. 12 (M) | [Review of Relational Model and Algebra](topics/3_relational_model) | [Online Relational Algebra Tool](https://dbis-uibk.github.io/relax/), [WorksOn Data Set](https://gist.github.com/rlawrenc/5a7eb3f69cbea033c04c3cdf680a2e39), [Bank Data Set](https://gist.github.com/rlawrenc/51721bd35f05ce3ef7391ff826f8f81a)  |
-| Sept. 14 (W) | [Review of SQL](topics/4_sql) | [SQL DDL](https://github.com/rlawrenc/cosc_304/tree/main/topics/5_sql_ddl), [Basic SQL](https://github.com/rlawrenc/cosc_304/tree/main/topics/6_sql), [SQL Aggregation](https://github.com/rlawrenc/cosc_304/tree/main/topics/7_sql_aggregation) |
-| Sept. 19 (M) | [MySQL on AWS Overview](topics/5_mysql_aws) | [Amazon RDS](https://aws.amazon.com/rds/), [Read Replicas](https://aws.amazon.com/rds/features/read-replicas/), [Multi-AZ](https://aws.amazon.com/rds/features/multi-az/), [Aurora](https://aws.amazon.com/rds/aurora/), [Getting started guide](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/CHAP_GettingStarted.html) |
-| Sept. 21 (W) | [MySQL on AWS Lab](topics/5_mysql_aws) |  |
-| Sept. 26 (M) | [SQLServer on Microsoft Azure Overview](topics/6_sqlserver_azure) |  |
-| Sept. 28 (W) | [SQLServer on Microsoft Azure Lab](topics/6_sqlserver_azure) |  |
-| Oct. 3 (M) | [Bigtable on Google Cloud Overview](topics/7_google_bigtable) |  |
-| Oct. 5 (W) | [Bigtable on Google Cloud Lab](topics/7_google_bigtable) |  |
+| Sept. 7 (W) | [**First day of classes.  Introduction to course and databases**](topics/1_intro) |  |
+| Sept. 12 (M) | [Relational Model and Algebra](topics/2_relational_model) | [Online Relational Algebra Tool](https://dbis-uibk.github.io/relax/), [WorksOn Data Set](https://gist.github.com/rlawrenc/5a7eb3f69cbea033c04c3cdf680a2e39), [Bank Data Set](https://gist.github.com/rlawrenc/51721bd35f05ce3ef7391ff826f8f81a)  |
+| Sept. 14 (W) | [SQL](topics/3_sql) | [SQL DDL](https://github.com/rlawrenc/cosc_304/tree/main/topics/5_sql_ddl), [Basic SQL](https://github.com/rlawrenc/cosc_304/tree/main/topics/6_sql), [SQL Aggregation](https://github.com/rlawrenc/cosc_304/tree/main/topics/7_sql_aggregation) |
+| Sept. 19 (M) | [Amazon RDS](topics/4_amazon_rds) | [Amazon RDS](https://aws.amazon.com/rds/), [Read Replicas](https://aws.amazon.com/rds/features/read-replicas/), [Multi-AZ](https://aws.amazon.com/rds/features/multi-az/), [Aurora](https://aws.amazon.com/rds/aurora/), [Getting started guide](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/CHAP_GettingStarted.html) |
+| Sept. 21 (W) | [Amazon RDS Lab](topics/4_amazon_rds) |  |
+| Sept. 26 (M) | [SQLServer on Microsoft Azure Overview](topics/5_microsoft_sqlserver_azure) |  |
+| Sept. 28 (W) | [SQLServer on Microsoft Azure Lab](topics/5_microsoft_sqlserver_azure) |  |
+| Oct. 3 (M) | [Bigtable on Google Cloud Overview](topics/6_google_bigtable) |  |
+| Oct. 5 (W) | [Bigtable on Google Cloud Lab](topics/6_google_bigtable) |  |
 | Oct. 10 (M) | **No class due to Thanksgiving** | |
 | Oct. 12 (W) | **Project Work Class** | |
-| Oct. 17 (M) | [MongoDB on Mongo Atlas Overview](topics/8_mongodb_atlas) |  |
-| Oct. 19 (W) | [MongoDB on Mongo Atlas Lab](topics/8_mongodb_atlas) |  |
+| Oct. 17 (M) | [MongoDB on Mongo Atlas Overview](topics/7_mongodb_atlas) |  |
+| Oct. 19 (W) | [MongoDB on Mongo Atlas Lab](topics/7_mongodb_atlas) |  |
 | Oct. 24 (M) | [Student Project #1 Overview]() | |
 | Oct. 26 (W) | [Student Project #1 Lab]() | |
 | Oct. 31 (M) | [Student Project #2 Overview]() | |
