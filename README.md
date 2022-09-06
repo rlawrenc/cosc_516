@@ -76,6 +76,24 @@ Dr. Ramon Lawrence, ramon.lawrence@ubc.ca, 250-807-9390<br>
 | December 5 (M) | [Student Project #6 Overview]() | |
 | December 7 (W) | [Student Project #6 Lab]() | |
 
+## Labs
+
+|  Lab  |  Date  |  Topic  |
+|----|------|-------|
+|  | September 5 – 9 |	**No Lab during First Week of Class** |
+|  | September 12 – 16 | **No Lab during Second Week of Class** |
+| [1](https://github.com/cosc-516-2022/lab1) | September 19 – 23 | Lab 1: MySQL on Amazon RDS |
+| [2](https://github.com/cosc-516-2022/lab2) | September 26 – 30 | Lab 2: SQLServer on Microsoft Azure |
+| [3](https://github.com/cosc-516-2022/lab3) | October 3 – 7 | Lab 3: Bigtable on Google Cloud |
+| [4](https://github.com/cosc-516-2022/lab4) | October 10 – 21 | Lab 4: MongoDB on Mongo Atlas |
+| [5] | October 24 – 28 | Lab 5: Student Lab |
+| [6] | Oct. 31 – Nov. 4 | Lab 6: Student Lab |
+|  | November 7 - 11 |	**No Lab during Midterm Break** |
+| [7] | November 14 – 18 | Lab 7: Student Lab |
+| [8] | November 21 – 25 | Lab 8: Student Lab |
+| [9] | Nov. 28 – Dec. 2 | Lab 9: Student Lab |
+| [10] | December 5 - 9 | Lab 10: Student Lab |
+
 Potential databases for student projects:
 - Key-value stores: Cassandra
 - High-availability: Google Spanner
