@@ -52,7 +52,7 @@ Dr. Ramon Lawrence, ramon.lawrence@ubc.ca, 250-807-9390<br>
 | Sept. 12 (M) | [Relational Model and Algebra](topics/2_relational_model) | [Online Relational Algebra Tool](https://dbis-uibk.github.io/relax/), [WorksOn Data Set](https://gist.github.com/rlawrenc/5a7eb3f69cbea033c04c3cdf680a2e39), [Bank Data Set](https://gist.github.com/rlawrenc/51721bd35f05ce3ef7391ff826f8f81a)  |
 | Sept. 14 (W) | [SQL](topics/3_sql) | [SQL DDL](https://github.com/rlawrenc/cosc_304/tree/main/topics/5_sql_ddl), [Basic SQL](https://github.com/rlawrenc/cosc_304/tree/main/topics/6_sql), [SQL Aggregation](https://github.com/rlawrenc/cosc_304/tree/main/topics/7_sql_aggregation) |
 | Sept. 19 (M) | [Amazon RDS](topics/4_amazon_rds) | [Amazon RDS](https://aws.amazon.com/rds/), [Read Replicas](https://aws.amazon.com/rds/features/read-replicas/), [Multi-AZ](https://aws.amazon.com/rds/features/multi-az/), [Aurora](https://aws.amazon.com/rds/aurora/), [Getting started guide](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/CHAP_GettingStarted.html) |
-| Sept. 21 (W) | [Amazon RDS Lab](topics/4_amazon_rds) |  |
+| Sept. 21 (W) | [Amazon RDS Lab](https://classroom.github.com/a/CxwujtzS) |  |
 | Sept. 26 (M) | [SQLServer on Microsoft Azure Overview](topics/5_microsoft_sqlserver_azure) |  |
 | Sept. 28 (W) | [SQLServer on Microsoft Azure Lab](topics/5_microsoft_sqlserver_azure) |  |
 | Oct. 3 (M) | [Bigtable on Google Cloud Overview](topics/6_google_bigtable) |  |
