@@ -53,7 +53,7 @@ Dr. Ramon Lawrence, ramon.lawrence@ubc.ca, 250-807-9390<br>
 | Sept. 14 (W) | [SQL](topics/3_sql) | [SQL DDL](https://github.com/rlawrenc/cosc_304/tree/main/topics/5_sql_ddl), [Basic SQL](https://github.com/rlawrenc/cosc_304/tree/main/topics/6_sql), [SQL Aggregation](https://github.com/rlawrenc/cosc_304/tree/main/topics/7_sql_aggregation) |
 | Sept. 19 (M) | [Amazon RDS](topics/4_amazon_rds) <br>**No in-person class due to national day of mourning** | [Amazon RDS](https://aws.amazon.com/rds/), [Read Replicas](https://aws.amazon.com/rds/features/read-replicas/), [Multi-AZ](https://aws.amazon.com/rds/features/multi-az/), [Aurora](https://aws.amazon.com/rds/aurora/), [Getting started guide](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/CHAP_GettingStarted.html) |
 | Sept. 21 (W) | [Amazon RDS Lab](https://classroom.github.com/a/CxwujtzS) |  |
-| Sept. 26 (M) | [SQLServer on Microsoft Azure Overview](topics/5_microsoft_sqlserver_azure) |  |
+| Sept. 26 (M) | [SQLServer on Microsoft Azure Overview](topics/5_microsoft_sqlserver_azure) | [Azure](https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-azure/), [Azure SQL](https://learn.microsoft.com/en-us/azure/azure-sql/database/sql-database-paas-overview?view=azuresql)  |
 | Sept. 28 (W) | [SQLServer on Microsoft Azure Lab](topics/5_microsoft_sqlserver_azure) |  |
 | Oct. 3 (M) | [Bigtable on Google Cloud Overview](topics/6_google_bigtable) |  |
 | Oct. 5 (W) | [Bigtable on Google Cloud Lab](topics/6_google_bigtable) |  |
