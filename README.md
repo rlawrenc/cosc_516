@@ -56,7 +56,7 @@ Dr. Ramon Lawrence, ramon.lawrence@ubc.ca, 250-807-9390<br>
 | Sept. 26 (M) | [SQLServer on Microsoft Azure Overview](topics/5_microsoft_sqlserver_azure) | [Azure](https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-azure/), [Azure SQL](https://learn.microsoft.com/en-us/azure/azure-sql/database/sql-database-paas-overview?view=azuresql)  |
 | Sept. 28 (W) | [SQLServer on Microsoft Azure Lab](topics/5_microsoft_sqlserver_azure) |  |
 | Oct. 3 (M) | [Bigtable on Google Cloud Overview](topics/6_google_bigtable) |  |
-| Oct. 5 (W) | [Bigtable on Google Cloud Lab](topics/6_google_bigtable) |  |
+| Oct. 5 (W) | [Bigtable on Google Cloud Lab](topics/6_google_bigtable)<br>**No class** |  |
 | Oct. 10 (M) | **No class due to Thanksgiving** | |
 | Oct. 12 (W) | **Project Work Class** | |
 | Oct. 17 (M) | [MongoDB on Mongo Atlas Overview](topics/7_mongodb_atlas) |  |
