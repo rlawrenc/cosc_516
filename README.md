@@ -58,7 +58,7 @@ Dr. Ramon Lawrence, ramon.lawrence@ubc.ca, 250-807-9390<br>
 | Oct. 3 (M) | [Bigtable on Google Cloud Overview](topics/6_google_bigtable) | [Google Bigtable](https://cloud.google.com/bigtable), [Intro Tutorial](https://codelabs.developers.google.com/codelabs/cloud-bigtable-intro-java/index.html), [Creating an Instance](https://cloud.google.com/bigtable/docs/creating-instance), [Pricing](https://cloud.google.com/bigtable/pricing), [Research Publication](https://static.googleusercontent.com/media/research.google.com/en//archive/bigtable-osdi06.pdf), [SSTable](https://www.igvita.com/2012/02/06/sstable-and-log-structured-storage-leveldb/), [Client libraries](https://cloud.google.com/bigtable/docs/reference/libraries), [Java Client Library](https://github.com/googleapis/java-bigtable) |
 | Oct. 5 (W) | **Project Work Class**<br>**No class** |  |
 | Oct. 10 (M) | **No class due to Thanksgiving** | |
-| Oct. 12 (W) | [Bigtable on Google Cloud Lab](topics/6_google_bigtable) | |
+| Oct. 12 (W) | [Bigtable on Google Cloud Lab](https://github.com/cosc-516-2022/lab3) | |
 | Oct. 17 (M) | [MongoDB on Mongo Atlas Overview](topics/7_mongodb_atlas) |  |
 | Oct. 19 (W) | [MongoDB on Mongo Atlas Lab](topics/7_mongodb_atlas) |  |
 | Oct. 24 (M) | [Student Project #1 Overview]() | |
