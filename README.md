@@ -59,7 +59,7 @@ Dr. Ramon Lawrence, ramon.lawrence@ubc.ca, 250-807-9390<br>
 | Oct. 5 (W) | **Project Work Class**<br>**No class** |  |
 | Oct. 10 (M) | **No class due to Thanksgiving** | |
 | Oct. 12 (W) | [Bigtable on Google Cloud Lab](https://github.com/cosc-516-2022/lab3) | |
-| Oct. 17 (M) | [MongoDB on Mongo Atlas Overview](topics/7_mongodb_atlas) |  |
+| Oct. 17 (M) | [MongoDB on Mongo Atlas Overview](topics/7_mongodb_atlas) | [MongoDB](https://www.mongodb.com), [Docs](https://www.mongodb.com/docs/manual), [Pricing](https://www.mongodb.com/pricing) |
 | Oct. 19 (W) | [MongoDB on Mongo Atlas Lab](topics/7_mongodb_atlas) |  |
 | Oct. 24 (M) | [Student Project #1 Overview]() | |
 | Oct. 26 (W) | [Student Project #1 Lab]() | |
