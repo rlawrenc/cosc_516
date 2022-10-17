@@ -63,20 +63,20 @@ Dr. Ramon Lawrence, ramon.lawrence@ubc.ca, 250-807-9390<br>
 | Oct. 19 (W) | [MongoDB on Mongo Atlas Lab](topics/7_mongodb_atlas) |  |
 | Oct. 24 (M) | **Project Work Class** | |
 | Oct. 26 (W) | **Project Work Class**<br>**No class** | |
-| Oct. 31 (M) | [Group #1 - Microsoft Cosmos DB Overview]() | |
-| Nov. 2 (W) |  [Group #1 - Microsoft Cosmos DB Lab]() | |
+| Oct. 31 (M) | [Group #1 (Jon/Satabdi) - Microsoft Cosmos DB Overview]() | |
+| Nov. 2 (W) |  [Group #1 (Jon/Satabdi) - Microsoft Cosmos DB Lab]() | |
 | Nov. 7 (M) | **No class for Term 1 midterm break** | |
 | Nov. 9 (W) | **No class for Term 1 midterm break** | |
-| Nov. 14 (M) | [Group #2 - Neo4J Overview]() | |
-| Nov. 16 (W) | [Group #2 - Neo4J Lab]() | |
-| Nov. 21 (M) | [Group #3 - Redis Overview]() | |
-| Nov. 23 (W) | [Group #3 - Redis Overview]() | |
-| Nov. 28 (M) | [Group #4 - Amazon Redshift Overview]() | |
-| Nov. 30 (W) | [Group #4 - Amazon Redshift Lab]() | |
-| December 5 (M) | [Group #5 - Influx Overview]() | |
-| December 7 (W) | [Group #5 - Influx Lab]() | |
-| December 12 (M) | [Group #6 - Cassandra Overview]() | |
-| December 14 (W) | [Group #6 - Cassandra Lab]() | |
+| Nov. 14 (M) | [Group #2 (Namrata/Sayan) - Neo4J Overview]() | |
+| Nov. 16 (W) | [Group #2 (Namrata/Sayan) - Neo4J Lab]() | |
+| Nov. 21 (M) | [Group #3 (Wei-Hsiang/Muhammad) - Redis Overview]() | |
+| Nov. 23 (W) | [Group #3 (Wei-Hsiang/Muhammad) - Redis Overview]() | |
+| Nov. 28 (M) | [Group #4 (Jumar/Devon) - Amazon Redshift Overview]() | |
+| Nov. 30 (W) | [Group #4 (Jumar/Devon) - Amazon Redshift Lab]() | |
+| December 5 (M) | [Group #5 (Pragya/Weixiao) - Influx Overview]() | |
+| December 7 (W) | [Group #5 (Pragya/Weixiao) - Influx Lab]() | |
+| December 12 (M) | [Group #6 (Erfan/Lyra) - Cassandra Overview]() | |
+| December 14 (W) | [Group #6 (Erfan/Lyra) - Cassandra Lab]() | |
 | December 17 (Sa) | Final Exam on Computer in FIP 138 starting at 8:30 a.m. | |
 
 
