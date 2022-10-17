@@ -61,20 +61,24 @@ Dr. Ramon Lawrence, ramon.lawrence@ubc.ca, 250-807-9390<br>
 | Oct. 12 (W) | [Bigtable on Google Cloud Lab](https://github.com/cosc-516-2022/lab3) | |
 | Oct. 17 (M) | [MongoDB on Mongo Atlas Overview](topics/7_mongodb_atlas) | [MongoDB](https://www.mongodb.com), [Docs](https://www.mongodb.com/docs/manual), [Pricing](https://www.mongodb.com/pricing) |
 | Oct. 19 (W) | [MongoDB on Mongo Atlas Lab](topics/7_mongodb_atlas) |  |
-| Oct. 24 (M) | [Student Project #1 Overview]() | |
-| Oct. 26 (W) | [Student Project #1 Lab]() | |
-| Oct. 31 (M) | [Student Project #2 Overview]() | |
-| Nov. 2 (W) |  [Student Project #2 Lab]() | |
+| Oct. 24 (M) | **Project Work Class** | |
+| Oct. 26 (W) | **Project Work Class**<br>**No class** | |
+| Oct. 31 (M) | [Group #1 - Microsoft Cosmos DB Overview]() | |
+| Nov. 2 (W) |  [Group #1 - Microsoft Cosmos DB Lab]() | |
 | Nov. 7 (M) | **No class for Term 1 midterm break** | |
 | Nov. 9 (W) | **No class for Term 1 midterm break** | |
-| Nov. 14 (M) | [Student Project #3 Overview]() | |
-| Nov. 16 (W) | [Student Project #3 Lab]() | |
-| Nov. 21 (M) | [Student Project #4 Overview]() | |
-| Nov. 23 (W) | [Student Project #4 Lab]() | |
-| Nov. 28 (M) | [Student Project #5 Overview]() | |
-| Nov. 30 (W) | [Student Project #5 Lab]() | |
-| December 5 (M) | [Student Project #6 Overview]() | |
-| December 7 (W) | [Student Project #6 Lab]() | |
+| Nov. 14 (M) | [Group #2 - Neo4J Overview]() | |
+| Nov. 16 (W) | [Group #2 - Neo4J Lab]() | |
+| Nov. 21 (M) | [Group #3 - Redis Overview]() | |
+| Nov. 23 (W) | [Group #3 - Redis Overview]() | |
+| Nov. 28 (M) | [Group #4 - Amazon Redshift Overview]() | |
+| Nov. 30 (W) | [Group #4 - Amazon Redshift Lab]() | |
+| December 5 (M) | [Group #5 - Influx Overview]() | |
+| December 7 (W) | [Group #5 - Influx Lab]() | |
+| December 12 (M) | [Group #6 - Cassandra Overview]() | |
+| December 14 (W) | [Group #6 - Cassnadra Lab]() | |
+| December 17 (Sa) | Final Exam on Computer in FIP 138 starting at 8:30 a.m. | |
+
 
 ## Labs
 
