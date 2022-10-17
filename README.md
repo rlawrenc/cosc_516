@@ -30,7 +30,7 @@ Dr. Ramon Lawrence, ramon.lawrence@ubc.ca, 250-807-9390<br>
 |------|-----------|-------------|
 | Assignments | 40% | Weekly assignments |
 | Project | 30% | Present on a particular database system | 
-| Final Exam | 30% |  |
+| Final Exam | 30% | Saturday, December 17 in FIP 138 at 8:30 a.m.  |
 
 ## Textbook and Reference Material
  - All notes are online.
