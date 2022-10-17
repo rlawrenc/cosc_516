@@ -76,7 +76,7 @@ Dr. Ramon Lawrence, ramon.lawrence@ubc.ca, 250-807-9390<br>
 | December 5 (M) | [Group #5 - Influx Overview]() | |
 | December 7 (W) | [Group #5 - Influx Lab]() | |
 | December 12 (M) | [Group #6 - Cassandra Overview]() | |
-| December 14 (W) | [Group #6 - Cassnadra Lab]() | |
+| December 14 (W) | [Group #6 - Cassandra Lab]() | |
 | December 17 (Sa) | Final Exam on Computer in FIP 138 starting at 8:30 a.m. | |
 
 
