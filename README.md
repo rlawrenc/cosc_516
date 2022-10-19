@@ -18,12 +18,12 @@ Dr. Ramon Lawrence, ramon.lawrence@ubc.ca, 250-807-9390<br>
 **Course Format:** Each course session will be done in person and streamed on Zoom. Each week a different database is presented. The first class of the week provides foundations on the database system and its particular features and use cases. Students will complete an interactive lab assignment on the database by the end of the second class of the week.
 
 **Learning Outcomes:**
- - Understand different database systems and their particular use cases.
- - Proficiency in creating a database system on each of the three major cloud providers (AWS, Azure, Google).
- - Experience creating technical summary documents and learning activities to educate others.
- - Mastery of constructing programs to interact with cloud databases including using testing frameworks.
- - Exposure to a variety of database technologies and systems and the ability to determine when to use them.
- - Practice allocating and managing resources on a cloud provider and monitoring billing and costs.
+ - Analyze database use cases to determine the appropriate database systems to use based on their architectures and features.
+ - Create a database system on each of the three major cloud providers (AWS, Azure, Google) and compare their properties.
+ - Design technical summary documents and learning activities to educate others.
+ - Construct queries and programs to interact with cloud databases including using testing frameworks.
+ - Compare a variety of database technologies and systems and argue when to use them.
+ - Demonstrate allocating and managing resources on a cloud provider and monitoring billing and costs.
 
 ## Marking and Evaluation
 | Item | Weighting | Description |
