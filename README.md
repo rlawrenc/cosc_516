@@ -63,8 +63,8 @@ Dr. Ramon Lawrence, ramon.lawrence@ubc.ca, 250-807-9390<br>
 | Oct. 19 (W) | [MongoDB on Mongo Atlas Lab](topics/7_mongodb_atlas) |  |
 | Oct. 24 (M) | **Project Work Class** | |
 | Oct. 26 (W) | **Project Work Class**<br>**No class** | |
-| Oct. 31 (M) | [Group #1 (Jon/Satabdi) - Microsoft Cosmos DB Overview]() | |
-| Nov. 2 (W) |  [Group #1 (Jon/Satabdi) - Microsoft Cosmos DB Lab]() | |
+| Oct. 31 (M) | [Group #1 (Jon/Satabdi) - Microsoft Cosmos DB Overview](topics/8_cosmos_db) | |
+| Nov. 2 (W) |  [Group #1 (Jon/Satabdi) - Microsoft Cosmos DB Lab](https://github.com/cosc-516-2022/lab5) | |
 | Nov. 7 (M) | **No class for Term 1 midterm break** | |
 | Nov. 9 (W) | **No class for Term 1 midterm break** | |
 | Nov. 14 (M) | [Group #2 (Namrata/Sayan/Daven) - Neo4J Overview]() | |
@@ -91,7 +91,7 @@ Dr. Ramon Lawrence, ramon.lawrence@ubc.ca, 250-807-9390<br>
 | [3](https://github.com/cosc-516-2022/lab3) | October 3 – 7 | Lab 3: Bigtable on Google Cloud |
 | [4](https://github.com/cosc-516-2022/lab4) | October 10 – 21 | Lab 4: MongoDB on Mongo Atlas |
 |  | October 24 – 28 | **No Lab**  |
-| 5 | Oct. 31 – Nov. 4 | Lab 5: Microsoft Cosmos DB |
+| [5](https://github.com/cosc-516-2022/lab5) | Oct. 31 – Nov. 4 | Lab 5: Microsoft Cosmos DB |
 |  | November 7 - 11 |	**No Lab during Midterm Break** |
 | 6 | November 14 – 18 | Lab 6: Neo4J |
 | 7 | November 21 – 25 | Lab 7: Redis |
