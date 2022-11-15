@@ -73,10 +73,8 @@ Dr. Ramon Lawrence, ramon.lawrence@ubc.ca, 250-807-9390<br>
 | Nov. 23 (W) | [Group #3 (Wei-Hsiang/Muhammad) - Redis Overview]() | |
 | Nov. 28 (M) | [Group #4 (Jumar/Devon) - Amazon Redshift Overview]() | |
 | Nov. 30 (W) | [Group #4 (Jumar/Devon) - Amazon Redshift Lab]() | |
-| December 5 (M) | [Group #5 (Pragya/Weixiao) - Influx Overview]() | |
-| December 7 (W) | [Group #5 (Pragya/Weixiao) - Influx Lab]() | |
-| December 12 (M) | [Group #6 (Erfan/Lyra) - Cassandra Overview]() | |
-| December 14 (W) | [Group #6 (Erfan/Lyra) - Cassandra Lab]() | |
+| December 5 (M) | [Group #5 (Pragya/Weixiao) - Influx Overview and Lab]() | |
+| December 7 (W) | [Group #6 (Erfan/Lyra) - Cassandra Overview and Lab]() | |
 | December 17 (Sa) | Final Exam on Computer in FIP 138 starting at 8:30 a.m. | |
 
 
