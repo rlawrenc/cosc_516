@@ -68,7 +68,7 @@ Dr. Ramon Lawrence, ramon.lawrence@ubc.ca, 250-807-9390<br>
 | Nov. 7 (M) | **No class for Term 1 midterm break** | |
 | Nov. 9 (W) | **No class for Term 1 midterm break** | |
 | Nov. 14 (M) | [Group #2 (Namrata/Sayan/Daven) - Neo4J Overview](topics/9_neo4j) | |
-| Nov. 16 (W) | [Group #2 (Namrata/Sayan/Daven) - Neo4J Lab]((https://github.com/cosc-516-2022/lab6) | |
+| Nov. 16 (W) | [Group #2 (Namrata/Sayan/Daven) - Neo4J Lab](https://github.com/cosc-516-2022/lab6) | |
 | Nov. 21 (M) | [Group #3 (Wei-Hsiang/Muhammad) - Redis Overview]() | |
 | Nov. 23 (W) | [Group #3 (Wei-Hsiang/Muhammad) - Redis Overview]() | |
 | Nov. 28 (M) | [Group #4 (Jumar/Devon) - Amazon Redshift Overview]() | |
