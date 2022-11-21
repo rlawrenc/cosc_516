@@ -69,8 +69,8 @@ Dr. Ramon Lawrence, ramon.lawrence@ubc.ca, 250-807-9390<br>
 | Nov. 9 (W) | **No class for Term 1 midterm break** | |
 | Nov. 14 (M) | [Group #2 (Namrata/Sayan/Daven) - Neo4J Overview](topics/9_neo4j) | |
 | Nov. 16 (W) | [Group #2 (Namrata/Sayan/Daven) - Neo4J Lab](https://github.com/cosc-516-2022/lab6) | |
-| Nov. 21 (M) | [Group #3 (Wei-Hsiang/Muhammad) - Redis Overview]() | |
-| Nov. 23 (W) | [Group #3 (Wei-Hsiang/Muhammad) - Redis Overview]() | |
+| Nov. 21 (M) | [Group #3 (Wei-Hsiang/Muhammad) - Redis Overview](topics/10_redis) | |
+| Nov. 23 (W) | [Group #3 (Wei-Hsiang/Muhammad) - Redis Lab](https://github.com/cosc-516-2022/lab7) | |
 | Nov. 28 (M) | [Group #4 (Jumar/Devon) - Amazon Redshift Overview]() | |
 | Nov. 30 (W) | [Group #4 (Jumar/Devon) - Amazon Redshift Lab]() | |
 | December 5 (M) | [Group #5 (Pragya/Weixiao) - Influx Overview and Lab]() | |
@@ -92,7 +92,7 @@ Dr. Ramon Lawrence, ramon.lawrence@ubc.ca, 250-807-9390<br>
 | [5](https://github.com/cosc-516-2022/lab5) | Oct. 31 – Nov. 4 | Lab 5: Microsoft Cosmos DB |
 |  | November 7 - 11 |	**No Lab during Midterm Break** |
 | [6](https://github.com/cosc-516-2022/lab6) | November 14 – 18 | Lab 6: Neo4J |
-| 7 | November 21 – 25 | Lab 7: Redis |
+| [7](https://github.com/cosc-516-2022/lab7) | November 21 – 25 | Lab 7: Redis |
 | 8 | Nov. 28 – Dec. 2 | Lab 8: Amazon Redshift |
 | 9 | December 5 - 9 | Lab 9: Influx |
 | 10 | December 12 - 16 | Lab 10: Cassandra |
