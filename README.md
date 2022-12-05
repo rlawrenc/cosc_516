@@ -73,9 +73,9 @@ Dr. Ramon Lawrence, ramon.lawrence@ubc.ca, 250-807-9390<br>
 | Nov. 23 (W) | [Group #3 (Wei-Hsiang/Muhammad) - Redis Lab](https://github.com/cosc-516-2022/lab7) | |
 | Nov. 28 (M) | [Group #4 (Jumar/Devon) - Amazon Redshift Overview](topics/11_amazon_redshift) | |
 | Nov. 30 (W) | [Group #4 (Jumar/Devon) - Amazon Redshift Lab](https://github.com/cosc-516-2022/lab8) | |
-| December 5 (M) | [Group #5 (Pragya/Weixiao) - Influx Overview and Lab]() | |
-| December 7 (W) | [Group #6 (Erfan/Lyra) - Cassandra Overview and Lab]() | |
-| December 17 (Sa) | Final Exam on Computer in FIP 138 starting at 8:30 a.m. | |
+| Dec. 5 (M) | [Group #5 (Pragya/Weixiao) - Influx Overview and Lab]() | |
+| Dec. 7 (W) | [Group #6 (Erfan/Lyra) - Cassandra Overview and Lab]() | |
+| Dec. 17 (Sa) | **Final Exam is take-home. Available from Saturday, Dec. 17 at 8 a.m. until Sunday, Dec. 18th at 8 p.m. (36 hours)** | |
 
 
 ## Labs
@@ -94,8 +94,7 @@ Dr. Ramon Lawrence, ramon.lawrence@ubc.ca, 250-807-9390<br>
 | [6](https://github.com/cosc-516-2022/lab6) | November 14 – 18 | Lab 6: Neo4J |
 | [7](https://github.com/cosc-516-2022/lab7) | November 21 – 25 | Lab 7: Redis |
 | [8](https://github.com/cosc-516-2022/lab8) | Nov. 28 – Dec. 2 | Lab 8: Amazon Redshift |
-| 9 | December 5 - 9 | Lab 9: Influx |
-| 10 | December 12 - 16 | Lab 10: Cassandra |
+| [9](https://github.com/cosc-516-2022/lab9) and [10](https://github.com/cosc-516-2022/lab10) | December 5 - 9 | Lab 9: Influx and Lab 10: Cassandra |
 
 Potential databases for student projects:
 - Key-value stores: Cassandra
